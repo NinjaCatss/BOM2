@@ -1,0 +1,17 @@
+h1{
+  color: white
+}
+h3{
+  color: white
+}
+p{
+  color: white
+}
+body {
+  background-image: url('https://nyaa.shikimori.one/system/screenshots/original/ce40c958fe295ddcc22eb54b82ec5a5b0fcf6ff1.jpg?1579502605');
+  background-size: cover;
+  background-attachment: fixed;
+}
+p{
+  font-size: 150%;
+}
